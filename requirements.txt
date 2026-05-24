@@ -1,8 +1,0 @@
-streamlit
-yfinance
-pandas
-requests
-beautifulsoup4
-financedatareader
-lxml
-html5lib
