@@ -1,0 +1,8 @@
+streamlit
+yfinance
+pandas==2.0.3
+requests
+beautifulsoup4
+financedatareader
+lxml
+html5lib
